@@ -1,6 +1,13 @@
 .gradient-background {
-  background-color: rgb(218, 198, 157);
+  background: rgba(163, 150, 150);
+  /* background-image: url('../filipino2.jpg'); */
   background-size: cover;
+  height: 500px;
+
+}
+
+.title-background {
+  background: rgba(255, 255, 255, 0.8);
 }
 
 .nav-link{
